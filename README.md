@@ -26,7 +26,7 @@ This is the official repository for the paper “A lightweight feature enhanceme
 ├── train.py               # Script for training the model
 ├── test.py                # Script for evaluating the model
 ├── demo.py                # Script for running inference on images/videos
-├── requirements.txt       # Python dependencies
+├── requirements.txt       # Python dependencies  
 └── README.md              # This file
 ***
 
@@ -35,6 +35,8 @@ This is the official repository for the paper “A lightweight feature enhanceme
 ***Prerequisites***
 ***
 Python 3.8+
+
 PyTorch 1.10+ (or compatible version)
+
 CUDA (recommended for GPU acceleration)
 ***
