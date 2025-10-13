@@ -2,18 +2,16 @@
 This is the official repository for the paper “A lightweight feature enhancement model for UAV detection in real-world scenarios”.
 
 ✨ Key Features
+
 🎯 High Accuracy: Achieves superior detection performance on challenging UAV datasets.
-
 🚀 Lightweight & Fast: Optimized for real-time applications with low FLOPs and parameters.
-
 🌐 Robustness: Demonstrates strong generalization ability in complex and dynamic real-world scenes.
-
 📦 Easy to Use: Simple installation and a clear command-line interface for training and inference.
-
 📊 Comprehensive: Includes pre-trained models, training scripts, and a curated dataset.
 
 
 📁 Repository Structure
+
 
 .
 ├── configs/               # Configuration files for different models and experiments
@@ -30,6 +28,7 @@ This is the official repository for the paper “A lightweight feature enhanceme
 ├── demo.py                # Script for running inference on images/videos
 ├── requirements.txt       # Python dependencies
 └── README.md              # This file
+
 
 🛠️ Installation
 Prerequisites
