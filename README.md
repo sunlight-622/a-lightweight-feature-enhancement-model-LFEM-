@@ -12,7 +12,7 @@ This is the official repository for the paper “A lightweight feature enhanceme
 
 📁 Repository Structure
 
-
+***
 .
 ├── configs/               # Configuration files for different models and experiments
 ├── data/                  # Dataset and data loading scripts
@@ -28,10 +28,13 @@ This is the official repository for the paper “A lightweight feature enhanceme
 ├── demo.py                # Script for running inference on images/videos
 ├── requirements.txt       # Python dependencies
 └── README.md              # This file
+***
 
+***🛠️ Installation***
 
-🛠️ Installation
-Prerequisites
+***Prerequisites***
+***
 Python 3.8+
 PyTorch 1.10+ (or compatible version)
 CUDA (recommended for GPU acceleration)
+***
