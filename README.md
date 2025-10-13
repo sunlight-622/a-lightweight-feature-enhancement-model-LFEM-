@@ -18,21 +18,21 @@ This is the official repository for the paper “A lightweight feature enhanceme
 ***📁 Repository Structure***
 
 ***
-.
+.<br>
 ├── configs/               # Configuration files for different models and experiments<br>
 ├── data/                  # Dataset and data loading scripts<br>
-│   └── UAV-Dataset/       # The UAV detection dataset (see below)
-├── models/                # Core model definitions
-│   ├── backbone.py        # Backbone networks (e.g., MobileNet, ShuffleNet)
-│   ├── neck.py            # Neck components (e.g., FPN, PAN)
-│   ├── head.py            # Detection heads
-│   └── lfem.py            # Our proposed LFEM module
-├── utils/                 # Utility functions (loss, metrics, visualization)
-├── train.py               # Script for training the model
-├── test.py                # Script for evaluating the model
-├── demo.py                # Script for running inference on images/videos
-├── requirements.txt       # Python dependencies  
-└── README.md              # This file
+│   └── UAV-Dataset/       # The UAV detection dataset (see below)<br>
+├── models/                # Core model definitions<br>
+│   ├── backbone.py        # Backbone networks (e.g., MobileNet, ShuffleNet)<br>
+│   ├── neck.py            # Neck components (e.g., FPN, PAN)<br>
+│   ├── head.py            # Detection heads<br>
+│   └── lfem.py            # Our proposed LFEM module<br>
+├── utils/                 # Utility functions (loss, metrics, visualization)<br>
+├── train.py               # Script for training the model<br>
+├── test.py                # Script for evaluating the model<br>
+├── demo.py                # Script for running inference on images/videos<br>
+├── requirements.txt       # Python dependencies  <br>
+└── README.md              # This file<br>
 
 ***
 
