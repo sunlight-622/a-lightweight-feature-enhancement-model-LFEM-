@@ -23,6 +23,8 @@ The dataset can be downloaded:  https://pan.baidu.com/s/1PGra3x-VWcGDfiFy7uwCKg 
 <font size=6><b>2. Run experiments</b></font>
 
 To replicate our results, run train.py
+## <div align="left">License</div>
+This project is released under the Apache 2.0 license.
 
 ## Citation
 
