@@ -23,13 +23,12 @@ The dataset can be downloaded:
 ## <div align="left">Citation</div>
 If you find LFEM and RWSD dataset useful in your research, please consider citing:
 
-### bibtex
-@article{han2025lightweight,
-title={A lightweight feature enhancement model for UAV detection in real-world scenarios},
-author={Han, Yanan and Yan, Xufei and Li, Yuan and Li, Danyang and Liu, Xiao-chao and Huang, Haishan and Bie, Da-wei},
-journal={<!-- -->},
-year={2025}
-}
+## Citation
+
+If you use this work, please cite our paper:
+
+### BibTeX
+
 
 
 
