@@ -1,11 +1,13 @@
 
 
 ## <div align="center">A lightweight feature enhancement model for UAV detection in real-world scenarios</div>
-•	We release RWSD, a large-scale UAV detection dataset of 14,592 real-world images covering diverse backgrounds, UAV sizes, and viewpoints to benchmark robust detectors
+•	We release RWSD, a large-scale UAV detection dataset of 14,592 real-world images covering diverse backgrounds, UAV sizes, and viewpoints to benchmark robust detectors.
+
 •	We present a lightweight feature enhancement model (LFEM) tailored for UAV detection and Extensive experimental results demonstrate the effectiveness and ef-ficiency of our approach.
 
 ## <div align="left">Introduction</div>
 
+<div class="title-bold-left">Abstract: </div>Real-time Unmanned Aerial Vehicle (UAV) detection is a growing research field centered on advanced computer vision and deep learning algorithms. However, the rise of un-manned aerial vehicles (UAVs) has sparked numerous concerns due to their potential for malicious use in illegal activities. To address these concerns, Vision-based object detec-tion approaches for UAVs have recently been developed. Nonetheless, UAV detection in real-world scenarios, such as images with diverse backgrounds and various perspectives, remains underexplored. To fill this gap, we present a new UAV detection dataset called the real-world scenarios dataset (RWSD). This dataset leverages real-world footage and is constructed under challenging conditions, including complex backgrounds, varying UAV sizes, different perspectives, and multiple UAV types. It aims to support the de-velopment of robust UAV detection algorithms that can perform well in diverse and re-alistic conditions. YOLO, a popular one-stage object detection approach, is widely em-ployed for UAV detection across different environments due to its efficiency and sim-plicity. However, this series of detectors encounter challenges in real-world scenarios, such as excessive computation and suboptimal detection rates. In this study, we propose a lightweight feature enhancement model (LFEM) to address these limitations.
 For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https://github.com/ultralytics/yolov5/issues), and join our [Discord](https://ultralytics.com/discord) community for questions and discussions!
 
 <br>
