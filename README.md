@@ -24,7 +24,8 @@ The dataset can be downloaded:  https://pan.baidu.com/s/1PGra3x-VWcGDfiFy7uwCKg 
 
 To replicate our results, run train.py
 ## <div align="left">License</div>
-This project is released under the AGPL-3.0 license.
+This project is released under the [AGPL-3.0 license](https://github.com/sunlight-622/a-lightweight-feature-enhancement-model-LFEM-/blob/master/LICENSE)
+.
 
 ## Citation
 
