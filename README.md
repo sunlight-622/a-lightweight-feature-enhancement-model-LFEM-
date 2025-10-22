@@ -1,6 +1,6 @@
 
 
-## <div align="center">Contact</div>
+## <div align="center">A lightweight feature enhancement model for UAV detection in real-world scenarios</div>
 
 For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https://github.com/ultralytics/yolov5/issues), and join our [Discord](https://ultralytics.com/discord) community for questions and discussions!
 
