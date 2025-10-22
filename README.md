@@ -20,8 +20,6 @@ All experiments in this work was run on a single NVIDIA RTX4090 GPU.
 
 The dataset can be downloaded:
 
-## <div align="left">Citation</div>
-If you find LFEM and RWSD dataset useful in your research, please consider citing:
 
 ## Citation
 
