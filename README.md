@@ -19,6 +19,19 @@ All experiments in this work was run on a single NVIDIA RTX4090 GPU.
 <font size=6><b>1.Prepare data</b></font>
 
 The dataset can be downloaded:
+
+## <div align="left">Citation</div>
+If you find LFEM and RWSD dataset useful in your research, please consider citing:
+
+@article{han2025lightweight,
+  title={A lightweight feature enhancement model for UAV detection in real-world scenarios},
+  author={Han, Yanan and Yan, Xufei and Li, Yuan and Li, Danyang and Liu, Xiao-chao and Huang, Haishan and Bie, Da-wei},
+  journal={<!--  -->},
+  year={2025}
+}
+
+
+
 For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https://github.com/ultralytics/yolov5/issues), and join our [Discord](https://ultralytics.com/discord) community for questions and discussions!
 
 <br>
