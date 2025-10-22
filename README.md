@@ -33,7 +33,7 @@ Han, Yanan and Yan, Xufei and Li, Yuan and Li, Danyang and Liu, Xiao-chao and Hu
 
 ## Acknowledgement
 
-This project structure is based on the YOLO[GitHub Issues](https://github.com/ultralytics/yolov5/), repository with additional methods, metrics and implementation improvements.
+This project structure is based on the [YOLOv5](https://github.com/ultralytics/yolov5/), repository with additional methods, metrics and implementation improvements.
 
 For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https://github.com/ultralytics/yolov5/issues), and join our [Discord](https://ultralytics.com/discord) community for questions and discussions!
 
