@@ -22,8 +22,7 @@ The dataset can be downloaded:
 
 <font size=6><b>2. Run experiments</b></font>
 
-To replicate our results, run 
-
+To replicate our results, run train.py
 
 ## Citation
 
@@ -32,7 +31,9 @@ If you use this work, please cite our paper:
 Han, Yanan and Yan, Xufei and Li, Yuan and Li, Danyang and Liu, Xiao-chao and Huang, Haishan and Bie, Da-wei；A lightweight feature enhancement model for UAV detection in real-world scenarios,2025
 
 
+## Acknowledgement
 
+This project structure is based on the YOLO[GitHub Issues](https://github.com/ultralytics/yolov5/), repository with additional methods, metrics and implementation improvements.
 
 For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https://github.com/ultralytics/yolov5/issues), and join our [Discord](https://ultralytics.com/discord) community for questions and discussions!
 
