@@ -26,6 +26,12 @@ The dataset can be downloaded:
 If you use this work, please cite our paper:
 
 ### BibTeX
+@article{han2025lightweight,
+  title={A lightweight feature enhancement model for UAV detection in real-world scenarios},
+  author={Han, Yanan and Yan, Xufei and Li, Yuan and Li, Danyang and Liu, Xiao-chao and Huang, Haishan and Bie, Da-wei},
+  journal={<!-- Please fill in the journal or conference name here -->},
+  year={2025}
+}
 
 
 
