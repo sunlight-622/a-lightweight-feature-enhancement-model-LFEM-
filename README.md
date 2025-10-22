@@ -17,6 +17,8 @@
 All experiments in this work was run on a single NVIDIA RTX4090 GPU.
 ## <div align="left">Benchmarks</div>
 <font size=6><b>1.Prepare data</b></font>
+
+The dataset can be downloaded:
 For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https://github.com/ultralytics/yolov5/issues), and join our [Discord](https://ultralytics.com/discord) community for questions and discussions!
 
 <br>
