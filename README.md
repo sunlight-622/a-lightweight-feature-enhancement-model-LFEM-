@@ -20,6 +20,10 @@ All experiments in this work was run on a single NVIDIA RTX4090 GPU.
 
 The dataset can be downloaded:
 
+<font size=6><b>2. Run experiments</b></font>
+
+To replicate our results, run 
+
 
 ## Citation
 
